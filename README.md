@@ -84,8 +84,8 @@
 
 1. **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/foodhub-backend.git
-cd foodhub-backend
+git clone https://github.com/Nidhibhide/FoodHub.git
+cd FoodHub
 ```
   
 2. **Install dependencies**  
@@ -102,6 +102,6 @@ PORT=5000
 
 4. **Start the server**  
 ```sh
-npm start
+npm run dev
 ```
 
